@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/DdA-ExamenU1yU2/static/css/main.93426384.chunk.css",
+    "main.js": "/DdA-ExamenU1yU2/static/js/main.d61637e6.chunk.js",
+    "main.js.map": "/DdA-ExamenU1yU2/static/js/main.d61637e6.chunk.js.map",
+    "runtime-main.js": "/DdA-ExamenU1yU2/static/js/runtime-main.a3f9eb90.js",
+    "runtime-main.js.map": "/DdA-ExamenU1yU2/static/js/runtime-main.a3f9eb90.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/DdA-ExamenU1yU2/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.53ecc07d.chunk.js": "/DdA-ExamenU1yU2/static/js/2.53ecc07d.chunk.js",
+    "static/js/2.53ecc07d.chunk.js.map": "/DdA-ExamenU1yU2/static/js/2.53ecc07d.chunk.js.map",
+    "static/js/3.e6c9e2e4.chunk.js": "/DdA-ExamenU1yU2/static/js/3.e6c9e2e4.chunk.js",
+    "static/js/3.e6c9e2e4.chunk.js.map": "/DdA-ExamenU1yU2/static/js/3.e6c9e2e4.chunk.js.map",
+    "index.html": "/DdA-ExamenU1yU2/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/DdA-ExamenU1yU2/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.93426384.chunk.css.map": "/DdA-ExamenU1yU2/static/css/main.93426384.chunk.css.map",
+    "static/js/2.53ecc07d.chunk.js.LICENSE.txt": "/DdA-ExamenU1yU2/static/js/2.53ecc07d.chunk.js.LICENSE.txt",
+    "static/media/buenfin.0610b1f3.png": "/DdA-ExamenU1yU2/static/media/buenfin.0610b1f3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3f9eb90.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.53ecc07d.chunk.js",
+    "static/css/main.93426384.chunk.css",
+    "static/js/main.d61637e6.chunk.js"
+  ]
+}
